@@ -1,3 +1,4 @@
+var _ = require("underscore")
 var assert = require('chai').assert
   , foo = 'bar'
   , beverages = { tea: [ 'chai', 'matcha', 'oolong' ] };
